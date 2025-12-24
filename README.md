@@ -1,1 +1,3 @@
+This project is an Interactive Sales Dashboard built using Microsoft Excel, designed to analyze and visualize sales performance data in an easy-to-understand and visually appealing way. The dashboard provides key business insights by combining charts, slicers, and dynamic visuals to support data-driven decision-making.
 
+The dashboard includes multiple analytical views such as Sales by Category, Profit Gain Over Time, Sales by State, Customer Count by Year, Monthly Sales Trends, and Top Customers by Profit Contribution. Users can interact with the dashboard using category and year filters, enabling quick comparison across different time periods and product categories.
